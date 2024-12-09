@@ -10,4 +10,4 @@ const x: string[][] = [["x", "y"]];
 // x.push("HI");
 console.log("ovilu")
 console.log("tsyen")
-console.log("mqebh")
+console.log("dgfsd")
